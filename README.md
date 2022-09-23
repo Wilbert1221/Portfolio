@@ -1,6 +1,6 @@
 # Wilbert Garcia's Portfolio
 
-## Web Development/Design
+## Web Development
 
 ### **[QC EdConnect](https://qcedconnect.wixsite.com/mysite-1)**
 
