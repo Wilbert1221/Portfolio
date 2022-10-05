@@ -1,8 +1,11 @@
 # Wilbert Garcia's Portfolio
 
-##Web3 Blockchain Development
+## Web3 Blockchain Development
+
 
 ### **[KDA MarketCap]()**
+
+* Designed and coded platform for company listing top cryptocurrency prices and charts, listed by market capitalization for Kadena blockchain and tokens. The project provides data, blogs, prices, and other content on the Kadena ecosystem.
 
 ### **[EDao]()**
 
