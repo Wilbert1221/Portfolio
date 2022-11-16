@@ -13,6 +13,11 @@
 
 ## Web Development
 
+
+### **[Housem](https://housem.netlify.app/)**
+
+* Designed, built and tested landing page for tech startup that is leveraging ML and encryption to increase accessing to housing. I created designs, logos and mockups using Canva and Figma. The front-end was created using React and leverages the sheet.best API to use Google Sheets as a database to collect emails. Collaborated with two non-technical cofounders. 
+
 ### **[QC EdConnect](https://qcedconnect.wixsite.com/mysite-1)**
 
 * Designed and Built website for company in 24 hours that works to connect existing learning resources to disadvantaged students and families and to connect willing volunteers with opportunites to advocate and give. QC EdConnect is based in the Charlotte Mecklenburg area and came to fruition during the pandemic to prevent a further educational gap for disadvantaged students. Worked with cofounders to  and ensure that design and user experience serve the users.
