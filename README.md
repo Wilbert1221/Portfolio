@@ -1,5 +1,11 @@
 # Wilbert Garcia's Portfolio
 
+## Brainwashd
+
+### **[Next.JS Misinformation Analysis](https://www.brainwashd.me)**
+
+* Web application to analyze misinformation and disinformation built using Next.JS. Leverages a hosted Python API that scrapes news articles and twitter posts for text content. Text content is then analyzed for potential biases and inaccuracies using the OpenAI API.
+
 ## Web3 Blockchain Development
 
 
